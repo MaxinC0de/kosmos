@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  background-color: #000000;
+  padding: 2vh 2vw 0 2vw;
+}
